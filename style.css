@@ -795,28 +795,22 @@ background-color: #191A23;
 
 .page6__chat {
   position: relative;
-  padding: 50px 60px;
-  border: 1px solid #b9ff66;
-  border-radius: 45px;
+  width: 600px;
+}
+
+.page6__chat img {
+  display: block;
+  width: 100%;
 }
 
 .page6__chat p {
+  position: absolute;
+  top: -10px;
+  left: 0px;
+  padding: 50px 60px;
   font-weight: 400;
   font-size: 18px;
   color: #ffffff;
-}
-
-.page6__chat::after {
-  content: "";
-  position: absolute;
-  left: 80px;
-  bottom: -19px;
-  width: 36px;
-  height: 36px;
-  background-color: #191a23;
-  border-right: 1px solid #b9ff66;
-  border-bottom: 1px solid #b9ff66;
-  transform: rotate(45deg);
 }
 
 .page6__name {
