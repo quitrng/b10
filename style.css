@@ -805,9 +805,9 @@ background-color: #191A23;
 
 .page6__chat p {
   position: absolute;
-  top: -10px;
+  top: 0px;
   left: 0px;
-  padding: 50px 60px;
+  padding: 50px 53px;
   font-weight: 400;
   font-size: 18px;
   color: #ffffff;
