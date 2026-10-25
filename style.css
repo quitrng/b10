@@ -912,7 +912,7 @@ border-radius: 45px;
 }
 
 .circle__green {
-  background: radial-gradient(circle, #191a23 0 5px, #b9ff66 6px);
+  background: radial-gradient(circle, #b9ff66 0 5px, #ffffff 6px);
 }
 
 .page7__field {
